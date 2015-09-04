@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B04CF6FA-278F-4B2A-80EE-4ECF4609DA59</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SnapDelivery</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FE0A10A23899A6FCF64071A8E966FF00558C991B</key>
+		<string>https://github.com/kishanravindra/SnapDelivery.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SnapDelivery.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FE0A10A23899A6FCF64071A8E966FF00558C991B</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kishanravindra/SnapDelivery.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FE0A10A23899A6FCF64071A8E966FF00558C991B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FE0A10A23899A6FCF64071A8E966FF00558C991B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SnapDelivery</string>
+		</dict>
+	</array>
+</dict>
+</plist>
