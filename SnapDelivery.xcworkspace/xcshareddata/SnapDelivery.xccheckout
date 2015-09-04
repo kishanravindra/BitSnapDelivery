@@ -10,6 +10,8 @@
 	<string>SnapDelivery</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>D03AED9A09C017C34A94081D0800FF9E8C16BA0A</key>
+		<string>https://github.com/kishanravindra/BitSnapDelivery.git</string>
 		<key>FE0A10A23899A6FCF64071A8E966FF00558C991B</key>
 		<string>https://github.com/kishanravindra/SnapDelivery.git</string>
 	</dict>
@@ -17,17 +19,27 @@
 	<string>SnapDelivery.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>FE0A10A23899A6FCF64071A8E966FF00558C991B</key>
+		<key>D03AED9A09C017C34A94081D0800FF9E8C16BA0A</key>
 		<string>..</string>
+		<key>FE0A10A23899A6FCF64071A8E966FF00558C991B</key>
+		<string>../../SnapDelivery</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/kishanravindra/SnapDelivery.git</string>
+	<string>https://github.com/kishanravindra/BitSnapDelivery.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>FE0A10A23899A6FCF64071A8E966FF00558C991B</string>
+	<string>D03AED9A09C017C34A94081D0800FF9E8C16BA0A</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D03AED9A09C017C34A94081D0800FF9E8C16BA0A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BitSnapDelivery</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
